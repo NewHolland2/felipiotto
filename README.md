@@ -57,5 +57,5 @@ Desenvolvedor apaixonado por tecnologia com foco em **desenvolvimento Android** 
 ---
 ⭐ **"Transformando dados agrícolas em conhecimento através da tecnologia"**
 
-![Suas Stats](https://github-readme-stats.vercel.app/api?username=felipiotto&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipiotto&layout=compact&theme=dark)
+![Suas Stats](https://github-readme-stats.vercel.app/api?username=NewHolland2&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NewHolland2&layout=compact&theme=dark)
